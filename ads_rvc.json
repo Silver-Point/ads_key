@@ -1,5 +1,4 @@
 {
-    "data": {    
         "admob_app_open": "ca-app-pub-3940256099942544/3419835294",
         "admob_banner": "ca-app-pub-3940256099942544/9214589741",
         "admob_interstitial": "ca-app-pub-3940256099942544/1033173712",
@@ -28,5 +27,4 @@
         "qu_native_banner_size": "14",
         "qu_native_link": "https://tetapose.com/tnart.in/Native/",
         "qu_native_size": "28"
-    }
 }
